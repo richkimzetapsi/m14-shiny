@@ -1,6 +1,6 @@
 # server.R
 library(dplyr)
-
+library(plotly)
 # Read in data
 setwd('~/Documents/info-201/m14-shiny/exercise-3/')
 source('./scripts/buildMap.R')
